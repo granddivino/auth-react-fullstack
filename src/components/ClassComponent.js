@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 //CSS import
-"../css/components/ClassComponents.css"
+import "../css/components/ClassComponents.css"
 class ClassComponent extends Component {
     render() {
         return (

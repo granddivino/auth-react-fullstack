@@ -1,7 +1,7 @@
 import React from 'react'
 
 //CSS import
-"../css/components/FunctionalComponent.css"
+import "../css/components/FunctionalComponent.css"
 const FunctionalComponent = () => {
     return (
         <div>
